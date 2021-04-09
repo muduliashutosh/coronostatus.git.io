@@ -1,0 +1,1 @@
+# coronostatus.git.io
